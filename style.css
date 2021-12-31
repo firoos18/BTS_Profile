@@ -1,0 +1,33 @@
+html body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    background-color: #f2e8fa;   
+}
+
+nav.bg-purple{
+    background-color: #d3abf5;
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+#navitem{
+    font-size: 20px;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+#album{
+    list-style-type: none;
+}
+
+#songlink{
+    text-decoration: none;
+    color:black;
+}
